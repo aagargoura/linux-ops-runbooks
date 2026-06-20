@@ -21,18 +21,18 @@ The goal of this repository is to convert repeated troubleshooting and operation
 
 ## Runbook Library
 
-| Runbook ID | Title                   | Focus Area                                | Status |
-| ---------- | ----------------------- | ----------------------------------------- | ------ |
-| RUN001     | Service Unreachable     | Linux service troubleshooting             | Draft  |
-| RUN002     | Disk Full               | Storage, logs, inode exhaustion           | Draft  |
-| RUN003     | High Load Average       | CPU, memory, I/O diagnostics              | Draft  |
-| RUN004     | SSH Access Failure      | Access, networking, authentication        | Draft  |
-| RUN005     | TLS Certificate Failure | HTTPS, certificates, trust chain          | Draft  |
-| RUN006     | DNS Resolution Failure  | DNS, resolvers, cache, records            | Draft  |
-| RUN007     | Service Not Starting    | systemd, logs, config validation          | Draft  |
-| RUN008     | Memory Pressure / OOM   | memory, swap, OOM killer                  | Draft  |
-| RUN009     | Deployment Rollback     | failed release, mitigation, validation    | Draft  |
-| RUN010     | Incident Communication  | incident updates, escalation, RCA handoff | Draft  |
+| Runbook ID | Title                   | Focus Area                                | Status      |
+| ---------- | ----------------------- | ----------------------------------------- | ----------- |
+| RUN001     | Service Unreachable     | Linux service troubleshooting             | Done.       |
+| RUN002     | Disk Full               | Storage, logs, inode exhaustion           | In Progress |
+| RUN003     | High Load Average       | CPU, memory, I/O diagnostics              | Draft       |
+| RUN004     | SSH Access Failure      | Access, networking, authentication        | Draft       |
+| RUN005     | TLS Certificate Failure | HTTPS, certificates, trust chain          | Draft       |
+| RUN006     | DNS Resolution Failure  | DNS, resolvers, cache, records            | Draft       |
+| RUN007     | Service Not Starting    | systemd, logs, config validation          | Draft       |
+| RUN008     | Memory Pressure / OOM   | memory, swap, OOM killer                  | Draft       |
+| RUN009     | Deployment Rollback     | failed release, mitigation, validation    | Draft       |
+| RUN010     | Incident Communication  | incident updates, escalation, RCA handoff | Draft       |
 
 ---
 
@@ -102,7 +102,7 @@ Examples:
 This repository is useful for:
 
 * Linux operations practice
-* DevOps and CloudOps interview preparation
+* Production-grade DevOps and CloudOps scenarios
 * SRE-style incident response learning
 * documenting operational procedures
 * building a public infrastructure reliability portfolio
@@ -115,3 +115,4 @@ This repository is useful for:
 - **Role:** DevOps / Cloud Operations Engineer
 - **LinkedIn:** [linkedin.com/in/aagargoura](https://www.linkedin.com/in/aagargoura)
 - **GitHub:** [github.com/aagargoura](https://github.com/aagargoura)
+- **Medium:** [aagargoura.medium.com](https://aagargoura.medium.com/)
