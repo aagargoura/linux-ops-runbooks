@@ -2,9 +2,9 @@
 
 A practical Linux operations runbook library and Bash automation scripts for common production-support scenarios: service outages, high load, disk pressure, TLS failures, DNS issues, memory pressure, and deployment rollback.
 
-The goal is to convert repeated troubleshooting steps into documented runbooks, safe automation scripts, and automating common Linux, DevOps, CloudOps, and SRE operational procedures.
+The goal is to convert repeated troubleshooting steps into documented runbooks, safe automation scripts for Linux, DevOps, CloudOps, and SRE operational procedures.
 
-A runbook as a documented process to achieve a specific outcome. In cloud operations, runbooks reduce operational risk by providing step-by-step procedures, required tools, permissions, escalation paths, and consistent outcomes.
+A runbook is a documented process helps achieve a specific outcome. In cloud operations, runbooks reduce operational risk by providing step-by-step procedures, required tools, permissions, escalation paths, and consistent outcomes.
 
 ---
 
@@ -111,7 +111,7 @@ This repository is useful for:
 
 ## Author
 
-Ahmed Amine Gargoura
-DevOps / Cloud Operations Engineer
-GitHub: https://github.com/aagargoura
-
+- **Name:** Ahmed Amine Gargoura
+- **Role:** DevOps / Cloud Operations Engineer
+- **LinkedIn:** [linkedin.com/in/aagargoura](https://www.linkedin.com/in/aagargoura)
+- **GitHub:** [github.com/aagargoura](https://github.com/aagargoura)
