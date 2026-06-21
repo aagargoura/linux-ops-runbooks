@@ -2,7 +2,7 @@
 
 # Author: AA. Gargoura
 # Description: This script checks if a specified Linux systemd service is active and provides details if it is not.
-# Created: 2024-06-01
+# Created: 2024-06-20
 # Modified: 2024-06-21
 # Usage:
 #   ./check_service.sh <service-name>
@@ -11,7 +11,8 @@
 #   ./check_service.sh nginx
 #   ./check_service.sh docker
 
-
+# Exit immediately if a command fails.
+# Treat unset variables as errors.
 # Make pipelines fail if any command inside the pipeline fails.
 set -euo pipefail
 
