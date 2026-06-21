@@ -4,7 +4,7 @@ A practical Linux operations runbook library and Bash automation scripts for com
 
 The goal is to convert repeated troubleshooting steps into documented runbooks, safe automation scripts for Linux, DevOps, CloudOps, and SRE operational procedures.
 
-A runbook is a documented process helps achieve a specific outcome. In cloud operations, runbooks reduce operational risk by providing step-by-step procedures, required tools, permissions, escalation paths, and consistent outcomes.
+> A runbook is a documented process that help to achieve a specific outcome. In cloud operations, runbooks reduce operational risk by providing step-by-step procedures, required tools, permissions, escalation paths, and consistent outcomes.
 
 ---
 
