@@ -6,8 +6,6 @@ The goal is to convert repeated troubleshooting steps into documented runbooks, 
 
 > A runbook is a documented process that help to achieve a specific outcome. In cloud operations, runbooks reduce operational risk by providing step-by-step procedures, required tools, permissions, escalation paths, and consistent outcomes.
 
----
-
 ## Purpose
 
 The goal of this repository is to convert repeated troubleshooting and operational tasks into:
@@ -16,8 +14,6 @@ The goal of this repository is to convert repeated troubleshooting and operation
 * safe diagnostic procedures
 * repeatable operational workflows
 * Bash/Python automation scripts
-
----
 
 ## Runbook Library
 
@@ -33,8 +29,6 @@ The goal of this repository is to convert repeated troubleshooting and operation
 | RUN008     | Memory Pressure / OOM   | memory, swap, OOM killer                  | Draft       |
 | RUN009     | Deployment Rollback     | failed release, mitigation, validation    | Draft       |
 | RUN010     | Incident Communication  | incident updates, escalation, RCA handoff | Draft       |
-
----
 
 ## Repository Structure
 
@@ -62,8 +56,6 @@ linux-ops-runbooks/
     └── collect_incident_context.sh
 ```
 
----
-
 ## Runbook Format
 
 Each runbook follows this structure:
@@ -80,8 +72,6 @@ Each runbook follows this structure:
 * Validation
 * Prevention / automation opportunities
 
----
-
 ## Automation Goal
 
 The first version of each runbook is written as a manual Markdown procedure. Over time, frequently used steps will be automated with Bash or Python scripts.
@@ -95,8 +85,6 @@ Examples:
 | TLS Certificate Failure | `scripts/check_tls_expiry.sh`                          |
 | Incident Investigation  | `scripts/collect_incident_context.sh`                  |
 
----
-
 ## Target Use Cases
 
 This repository is useful for:
@@ -106,8 +94,6 @@ This repository is useful for:
 * SRE-style incident response learning
 * documenting operational procedures
 * building a public infrastructure reliability portfolio
-
----
 
 ## Author
 
