@@ -19,7 +19,7 @@ The goal of this repository is to convert repeated troubleshooting and operation
 
 | Runbook ID | Title                   | Focus Area                                | Status      |
 | ---------- | ----------------------- | ----------------------------------------- | ----------- |
-| RUN001     | Service Unreachable     | Linux service troubleshooting             | Done.       |
+| RUN001     | [Service Unreachable](https://github.com/aagargoura/linux-ops-runbooks/blob/main/runbooks/RUN001-service-unreachable.md)     | Linux service troubleshooting             | Done.       |
 | RUN002     | Disk Full               | Storage, logs, inode exhaustion           | In Progress |
 | RUN003     | High Load Average       | CPU, memory, I/O diagnostics              | Draft       |
 | RUN004     | SSH Access Failure      | Access, networking, authentication        | Draft       |
